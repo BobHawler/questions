@@ -15,7 +15,7 @@ cd task_1
 ```
 ### Скачайте репозиторий:
 ```bash
-git clone ******************** 
+git clone git@github.com:BobHawler/questions.git
 ```
 
 ### Перейдите в папку проекта:
